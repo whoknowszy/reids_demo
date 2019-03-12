@@ -26,6 +26,7 @@ public class ReidsDemoApplicationTests {
         //使用redisTemplate存储user对象
         List<User> users =new ArrayList<>();
         User user1=new User("zhangsan","123");
+        User user2=new User("wangwu","123");
 
     }
 
